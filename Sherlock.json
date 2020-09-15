@@ -1,0 +1,11 @@
+{
+	"name": "Sherlock Holmes",
+	"address": {
+		"street": "Baker Street",
+		"house no": "221B",
+		"city": "London",
+		"country": "England"
+	},
+	"married": false,
+	"spouse": null
+}

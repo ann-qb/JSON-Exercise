@@ -1,0 +1,5 @@
+{
+	"name": "Harry Potter",
+	"subjects": ["Potions", "Charms", "Transfiguration", "Astrology"],
+	"marks": [67, 88, 91, 55]
+}

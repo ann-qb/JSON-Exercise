@@ -1,0 +1,11 @@
+{
+	"name": "Jane Doe",
+	"spouse": "John Doe",
+	"address":{
+		"street": "Main Avenue",
+		"houseno": "22",
+		"city": "Atlantis",
+		"state": "Mariana Trench",
+		"country": "Pacific Ocean"
+	}
+}
