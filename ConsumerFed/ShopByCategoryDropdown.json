@@ -1,0 +1,87 @@
+[
+	{
+		"id": 1,
+		"category name": "Fruits & Vegetables",
+		"parent id": 0
+	},
+    {
+		"id": 2,
+		"category name": "Milk & Milk Products",
+		"parent id": 0
+	},
+    {
+		"id": 3,
+		"category name": "Egg &Egg Products",
+		"parent id": 0
+	},
+    {
+		"id": 4,
+		"category name": "Bread & Bakery",
+		"parent id": 0
+	},
+    {
+		"id": 5,
+		"category name": "Fruits & Vegetables",
+		"parent id": 0
+	},
+    {
+		"id": 6,
+		"category name": "Herb",
+		"parent id": 1
+	},
+    {
+		"id": 7,
+		"category name": "Fresh Fruit",
+		"parent id": 1
+	},
+    {
+		"id": 8,
+		"category name": "Organic",
+		"parent id": 1
+	},
+    {
+		"id": 9,
+		"category name": "Exotic",
+		"parent id": 1
+	},
+    {
+		"id": 10,
+		"category name": "Cuts",
+		"parent id": 1
+	},
+    {
+		"id": 11,
+		"category name": "Herb",
+		"parent id": 2
+	},
+    {
+		"id": 12,
+		"category name": "Fresh Fruit",
+		"parent id": 2
+	},
+    {
+		"id": 13,
+		"category name": "Organic",
+		"parent id": 2
+	},
+    {
+		"id": 14,
+		"category name": "Exotic",
+		"parent id": 2
+	},
+    {
+		"id": 15,
+		"category name": "Cuts",
+		"parent id": 2
+	},
+	{
+		"id": 16,
+		"category name": "Lemon",
+		"parent id": 6
+	},
+    {
+		"id": 17,
+		"category name": "Ginger",
+		"parent id": 6
+	}
+]

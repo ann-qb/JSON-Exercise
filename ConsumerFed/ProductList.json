@@ -1,0 +1,191 @@
+[
+	{
+		"category": "Featured Products",
+		"items":
+		[
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			}
+		]
+	},
+	{
+		"category": "Fruits & Vegetables",
+		"items":
+		[
+			{
+				"name": "Bell Pepper",
+				"url": "sampleurl.com",
+				"offer": "30%",
+				"before price": "120",
+				"after price": "80",
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Strawberry",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": "120",
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Green Beans",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": "120",
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Purple Cabbage",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": "120",
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			}
+		]
+	},
+	{
+		"category": "Home Appliances",
+		"items":
+		[
+			{
+				"name": "Samsung LED TV",
+				"url": "sampleurl.com",
+				"offer": "30%",
+				"before price": 12000,
+				"after price": 8000,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": "Samsung"
+			},
+			{
+				"name": "IFB Washing Machine",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": 14000,
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": "IFB"
+			},
+			{
+				"name": "Whirlpool Fridge",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": 20000,
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": "Whirlpool"
+			},
+			{
+				"name": "Philips Microwave",
+				"url": "sampleurl.com",
+				"offer": null,
+				"before price": 5000,
+				"after price": null,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": "Philips"
+			},
+			{
+				"name": "V-Guard Fan",
+				"url": "sampleurl.com",
+				"offer": "30%",
+				"before price": 2500,
+				"after price": 1650,
+				"pack size": null,
+				"add to cart": false,
+				"favourite": false,
+				"brand name": "V-Guard"
+			}
+		]
+	},
+	{
+		"category": "Snacks & Branded Food",
+		"items":
+		[
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			},
+			{
+				"name": "Tulsi California Almond Premium, 200g",
+				"url": "sampleurl.com",
+				"offer": "15%",
+				"before price": "200",
+				"after price": "150",
+				"pack size": "100 5g Rs. 190.5",
+				"add to cart": false,
+				"favourite": false,
+				"brand name": null
+			}
+		]
+	}
+]
