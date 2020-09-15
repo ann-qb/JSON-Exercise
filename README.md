@@ -1,4 +1,4 @@
-##Assignment 1
+## Assignment 1
 
 4 json files have been created and validated on jsonlint.com.
 The files were created to try out different json values.
@@ -10,7 +10,7 @@ The following are the test files:
 3. Sherlock.json holds name, address, marital status and spouse name of a person.
 4. JaneDoe.json holds name, spouse name and adress of a person.
 
-##Assignment 2
+## Assignment 2
 
-Created folder Consumer Fed.
-Created json files for dynamic content of index.html of ConsumerFed website.
+Created folder ConsumerFed.
+Created json files for dynamic content of index.html page of ConsumerFed website.
