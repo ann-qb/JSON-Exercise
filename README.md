@@ -15,8 +15,8 @@ The following are the test files:
 Created folder ConsumerFed.
 Created json files for dynamic content of index.html page of ConsumerFed website.
 
-### Modifications
-1. Combined into single file.
+### Modifications - Done in ConsumerFed/ConsumerFed.json file.
+1. Combined multiple JSONs into single file.
 2. Got rid of technical terms in names.
 3. Clearer structure for file.
 4. Removed issue of hard coding.
