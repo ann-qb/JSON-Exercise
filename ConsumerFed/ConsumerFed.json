@@ -1,0 +1,264 @@
+{
+	"ShopByCategoryMenu": {
+		"Fruits & Vegetables": {
+			"Herb": ["Lemon", "Ginger"],
+			"Fresh Fruit": [],
+			"Organic": [],
+			"Exotic": [],
+			"Cuts": []
+		},
+		"Milk & Milk Products": {
+			"Herb": [],
+			"Fresh Fruit": [],
+			"Organic": [],
+			"Exotic": [],
+			"Cuts": []
+		},
+		"Egg &Egg Products": {},
+		"Bread & Bakery": ["Bread", "Bread", "Bread", "Bread", "Bread"],
+		"Fruits & Vegetables 2": {
+			"Drop Down Link 5": [],
+			"Orange1": [],
+			"Orange2": [],
+			"Orange3": [],
+			"Orange": ["Orange", "Orange", "Orange"]
+		}
+	},
+
+
+    "MainImages":[
+        {
+            "url": "sampleurl1.com"
+        },
+        {
+            "url": "sampleurl2.com"
+        },
+        {
+            "url": "sampleurl3.com"
+        }
+    ],
+
+
+    "ProductList":{
+        "Featured Products":[
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            }
+        ],
+        "Fruits & Vegetables":[
+            {
+                "name": "Bell Pepper",
+                "url": "sampleurl.com",
+                "offer": "30%",
+                "before price": "120",
+                "after price": "80",
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Strawberry",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": "120",
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Green Beans",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": "120",
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Purple Cabbage",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": "120",
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            }
+        ],
+        "Home Appliances":[
+            {
+                "name": "Samsung LED TV",
+                "url": "sampleurl.com",
+                "offer": "30%",
+                "before price": 12000,
+                "after price": 8000,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": "Samsung"
+            },
+            {
+                "name": "IFB Washing Machine",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": 14000,
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": "IFB"
+            },
+            {
+                "name": "Whirlpool Fridge",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": 20000,
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": "Whirlpool"
+            },
+            {
+                "name": "Philips Microwave",
+                "url": "sampleurl.com",
+                "offer": null,
+                "before price": 5000,
+                "after price": null,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": "Philips"
+            },
+            {
+                "name": "V-Guard Fan",
+                "url": "sampleurl.com",
+                "offer": "30%",
+                "before price": 2500,
+                "after price": 1650,
+                "pack size": null,
+                "add to cart": false,
+                "favourite": false,
+                "brand name": "V-Guard"
+            }
+        ],
+        "Snacks & Branded Food":[
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            },
+            {
+                "name": "Tulsi California Almond Premium, 200g",
+                "url": "sampleurl.com",
+                "offer": "15%",
+                "before price": "200",
+                "after price": "150",
+                "pack size": "100 5g Rs. 190.5",
+                "add to cart": false,
+                "favourite": false,
+                "brand name": null
+            }
+        ]
+    },
+
+
+    "ShopByCategory":[
+        {
+            "category name": "Milk &Milk Products",
+            "url": "sampleurl1.com"
+        },
+        {
+            "category name": "Egg &Egg Products",
+            "url": "sampleurl2.com"
+        },
+        {
+            "category name": "Fruits & Vegetables",
+            "url": "sampleurl3.com"
+        },
+        {
+            "category name": "Bread &Bakery",
+            "url": "sampleurl4.com"
+        }
+    ],
+
+    "Popular Brands":[
+        {
+            "brand name": "Lifebuoy",
+            "url": "sampleurl1.com"
+        },
+        {
+            "brand name": "Nirapara",
+            "url": "sampleurl2.com"
+        },
+        {
+            "brand name": "Dove",
+            "url": "sampleurl3.com"
+        },
+        {
+            "brand name": "India Gate",
+            "url": "sampleurl4.com"
+        },
+        {
+            "brand name": "Amul",
+            "url": "sampleurl5.com"
+        },
+        {
+            "brand name": "Aashirvaad",
+            "url": "sampleurl6.com"
+        }
+    ]
+}
